@@ -8,7 +8,7 @@
     <artifactId>CVStats</artifactId>
     <packaging>jar</packaging>
 
-    <version>1.18</version>
+    <version>1.21</version>
     <name>CVStats</name>
 
     <description>A plugin used to log analytics for Cubeville</description>
@@ -45,7 +45,7 @@
         <dependency>
             <groupId>org.spigotmc</groupId>
             <artifactId>spigot-api</artifactId>
-            <version>1.18.2-R0.1-SNAPSHOT</version>
+            <version>1.21-R0.1-SNAPSHOT</version>
             <type>jar</type>
             <scope>compile</scope>
         </dependency>
